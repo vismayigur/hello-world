@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+Hey there!
+This is just a test to make sure the changes can be seen.
